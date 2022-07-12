@@ -14,7 +14,7 @@ hideComments = false
 
 ### Essentiels avant de commencer
 
-* [Faire carrière derrière un ordinateur sans pour autant se ruiner en kiné]()
+* [Faire carrière derrière un ordinateur sans pour autant se ruiner en kiné](Kine.md)
 
 * [Petit point Hardware]()
 
