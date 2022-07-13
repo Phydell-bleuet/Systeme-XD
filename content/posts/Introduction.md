@@ -14,11 +14,13 @@ hideComments = false
 ## Parce que le Système D n'était pas suffisant...
 version ENIB  
 
-Toute peine mérite galères - [Jacques Pater](https://citations.ouest-france.fr/citation-jacques-pater/peine-merite-galeres-16281.html)
+Toute peine mérite galères - [Jacques Pater](https://citations.ouest-france.fr/citation-jacques-pater/peine-merite-galeres-16281.html)  
 
-Voici donc des articles/recap/memo/liens qui m'ont servi et qui vous éviterons (peut être ?) de perdre autant de temps que moi sur des choses qui bloquent un projet sans autant être le projet en lui même. (Bonjour les configurations ou erreurs d'installation...)  
-Bref de quoi potentiellement transformer vos galères en salaires. 
-Vive la loi de Murphy et bonne lecture !
+Tout est prêt pour la séance de demain, donc, selon la loi de Murphy, ça devrait ne pas fonctionner - anonyme
+
+Voici des recap/memo/liens qui m'ont servi et qui vous éviterons (peut être ?) de perdre autant de temps que moi sur des choses qui bloquent un projet sans autant être le projet en lui même. (Bonjour les configurations ou erreurs d'installation...)  
+Bref de quoi potentiellement transformer vos galères en salaires.   
+Bonne lecture !
 
 [Ici le sommaire](/posts/sommaire/)
 
