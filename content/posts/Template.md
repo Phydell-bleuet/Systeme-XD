@@ -14,4 +14,26 @@ hideComments = false
 draft=false
 themeColor = "pink"
 +++
-here your text
+## Memo
+---
+* ajoute ici des choses dont on a besoin facilement
+* [chaque point doit être court](false link)
+  
+    
+## Le concept
+---
+Ici c'est plus un paragraphe avec des liens
+esdtryugih
+  
+    
+      
+## Tutos/Vidéos/Autres Sources
+---
+* encore des points
+* wew
+  
+    
+      
+## Pour être un pro
+---
+Ici c'est un peu le mélange, on peut donner des conseils tout comme lister d'autres lien ou choses qui peuvent être intéressantes
