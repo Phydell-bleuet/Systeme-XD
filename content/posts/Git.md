@@ -1,26 +1,35 @@
 # Git
 
 ## Memo
----
+
 * [les commandes de base](https://confluence.atlassian.com/bitbucketserver076/basic-git-commands-1026534676.html)
 * [vidéos-tutos par point](https://egghead.io/lessons/misc-practical-git-create-local-repos-with-git-init)
-  
-    
+---    
 ## Le concept
----
-Ici c'est plus un paragraphe avec des liens
-esdtryugih
-  
+
+Git est un outil pour versionner un projet (de code souvent). 
+Ce n'est pas un drive, c'est un outil qui surpasse les Ctrl+Z. [Voici une vidéo qui pourra bien introduire le sujet.](https://www.youtube.com/watch?v=hwP7WQkmECE) 
+Dans le jargon git un projet = un repository. (un dossier dans lequel est stocké le code que tu veux versionner)  
+
+### Github, Gitlab, Bitbucket... C'est quoi du coup ?
+
+Les 3 plateformes font exactement la même chose: Elles gardent ton projet git en ligne. Tu as donc un repo(sitory) en ligne et un autre en "local" (sur ton ordi). les 2 repos ne sont pas automatiquement synchronisés (il faut passer une commande "push"). Pourquoi le mettre en ligne ? Pour pouvoir bosser à plusieurs ! Et pourquoi ne pas synchro les repos locaux et en ligne automatiquement ? Pour permettre à tout le monde de changer la même partie de code en même temps. Quand les repos de chacun seront synchronisés, on choisira ce que l'on garde. 
+Github est la plateforme la plus utilisée, elle est gratuite et est accessible depuis tout ordinateur ayant une connexion internet.  
+Gitlab et Bitbucket servent pour les entreprises/ organisations. La version d'essai seulement est gratuite mais cela permet d'avoir un outil bien plus sécurisé.
+
+### Les actions
+
+### Les petits concepts qui font de grand changements
     
-      
+---     
 ## Tutos/Vidéos/Autres Sources
----
+
 * [Un jeu vidéo pour apprendre Git](https://ohmygit.org/)
-* wew
+* [15 min pour prendre en main Git](https://www.youtube.com/watch?v=USjZcfj8yxE)
   
     
-      
+---      
 ## Pour être un pro
----
 [Some git branching strategies](https://www.flagship.io/git-branching-strategies/)
 (best strategies are gitlab flow and trunk developpement)
+---
