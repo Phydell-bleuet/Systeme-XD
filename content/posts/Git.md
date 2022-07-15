@@ -13,23 +13,31 @@ Dans le jargon git un projet = un repository. (un dossier dans lequel est stock�
 
 ### Github, Gitlab, Bitbucket... C'est quoi du coup ?
 
-Les 3 plateformes font exactement la même chose: Elles gardent ton projet git en ligne. Tu as donc un repo(sitory) en ligne et un autre en "local" (sur ton ordi). les 2 repos ne sont pas automatiquement synchronisés (il faut passer une commande "push"). Pourquoi le mettre en ligne ? Pour pouvoir bosser à plusieurs ! Et pourquoi ne pas synchro les repos locaux et en ligne automatiquement ? Pour permettre à tout le monde de changer la même partie de code en même temps. Quand les repos de chacun seront synchronisés, on choisira ce que l'on garde. 
+Les 3 plateformes font exactement la même chose: Elles gardent ton projet git en ligne. Tu as donc un repo(sitory) en ligne et un autre en "local" (sur ton ordi). les 2 repos ne sont pas automatiquement synchronisés (il faut passer une commande "push"). Pourquoi le mettre en ligne ? Pour pouvoir bosser à plusieurs ! Et pourquoi ne pas synchro les repos locaux et en ligne automatiquement ? Pour permettre à tout le monde de changer la même partie de code en même temps. Quand les repos de chacun seront synchronisés, on choisira ce que l'on garde dans le git en ligne. 
 Github est la plateforme la plus utilisée, elle est gratuite et est accessible depuis tout ordinateur ayant une connexion internet.  
 Gitlab et Bitbucket servent pour les entreprises/ organisations. La version d'essai seulement est gratuite mais cela permet d'avoir un outil bien plus sécurisé.
 
+
 ### Les actions
+
+Quand c'est déjà bien expliqué quelque part, pourquoi se priver ?  
+[Toutes les actions de base expliquées](https://dev.to/stefant123/basic-git-commands-explained-1cjd)
 
 ### Les petits concepts qui font de grand changements
     
+* un commit = un changement, c'est la merde sinon pour retrouver oú est ce que un changement a été fait
+* un commit = un message CLAIR. Même raison qu'au dessus.
+* une branche = un seul objectif, sinon si on veut garder une partie mais pas l'autre c'est beaucoup plus compliqué (cherry picking et rebase).
+* un repo = une "git branching strategy", sinon on s'emmêle les pinceaux
 ---     
 ## Tutos/Vidéos/Autres Sources
 
 * [Un jeu vidéo pour apprendre Git](https://ohmygit.org/)
 * [15 min pour prendre en main Git](https://www.youtube.com/watch?v=USjZcfj8yxE)
-  
+ 
     
 ---      
 ## Pour être un pro
-[Some git branching strategies](https://www.flagship.io/git-branching-strategies/)
-(best strategies are gitlab flow and trunk developpement)
+* [45 min pour avoir des standards pro](https://www.youtube.com/watch?v=Uszj_k0DGsg)
+* [Quelques "git branching strategies"](https://www.flagship.io/git-branching-strategies/)(Des stratégies de management de code)
 ---
